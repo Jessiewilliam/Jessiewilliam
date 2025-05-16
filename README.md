@@ -59,11 +59,11 @@ Climate and environmental data analysis for advocacy
 ## 📫 Let's Connect!
 📧 williamjessie16@gmail.com
 
-GitHub: 
+GitHub: https://github.com/Jessiewilliam
 
-LinkedIn
+LinkedIn: http://www.linkedin.com/in/jessica-william-9a3141225
 
-Portfolio
+Portfolio: https://jessica-william.zarlasites.com/
 
 ### 📖 Quote I Live By
 "Without data, you're just another person with an opinion." — W. Edwards Deming
