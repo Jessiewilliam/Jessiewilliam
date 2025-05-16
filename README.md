@@ -30,6 +30,7 @@ AI Tools	Data Scraping, Summarizing Tools	Graphic Design	Data Storytelling
 ### 📌 Notable Projects
 📈 GhanaPay Transaction Analysis
 Created a Power BI dashboard and business analysis presentation for GhanaPay’s transaction data, uncovering customer behavior trends, regional patterns, and operational recommendations.
+( https://github.com/Jessiewilliam/GhanaPay-Analysis-Project.git )
 
 📊 Generation Ghana Power BI Project
 Developed interactive dashboards tracking operational KPIs and visualizing key business metrics.
